@@ -1,2 +1,2 @@
 # DIO
-Repositório contendo projetos das trilhas da plataforma DIO.
+* Repositório contendo projetos das trilhas da plataforma DIO.
