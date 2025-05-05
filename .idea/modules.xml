@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java/ControleFluxo/ControleFluxo.iml" filepath="$PROJECT_DIR$/Java/ControleFluxo/ControleFluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DIO.iml" filepath="$PROJECT_DIR$/.idea/DIO.iml" />
     </modules>
   </component>
