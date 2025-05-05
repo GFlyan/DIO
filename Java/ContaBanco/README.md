@@ -1,10 +1,8 @@
 
-# DIO - Trilha Java Básico
+# Conta de Banco
 
 #### Autor  
 - [Guilherme Flyan](https://github.com/GFlyan)
-
-## Sintaxe - Desafio
 
 Neste desafio do módulo de Sintaxe, coloquei em prática todo o conteúdo estudado desenvolvendo o seguinte cenário:
 
